@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">task</string>
+    <string name="con_tx">Continue</string>
+    <string name="welcome_tx">"Welcome to Plants Lovers "</string>
+    <string name="welcome">Welcome to Plants Lovers</string>
+    <string name="face_login">Login with Facebook</string>
+    <string name="sign_tx">"Sign In "</string>
+    <string name="sing">Sign In</string>
+</resources>
